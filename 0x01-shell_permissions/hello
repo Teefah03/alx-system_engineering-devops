@@ -7,3 +7,4 @@ chmod --reference=olleh hello
 chgrp school hello
 mkdir -m 751 my_dir
 sudo chmod -R +111 */
+chown betty hello
