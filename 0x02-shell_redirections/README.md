@@ -11,3 +11,4 @@ script that counts the number of directories and sub-directories
 script that displays the 10 newest files
 script that takes a list of words as input
 Display lines containing the pattern
+Display the number of lines that contain the pattern
