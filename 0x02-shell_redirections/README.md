@@ -8,3 +8,4 @@ writes into the file
 script that duplicates the last line
 script that deletes all the regular files (not the directories) with a .js extension
 script that counts the number of directories and sub-directories
+script that displays the 10 newest files
