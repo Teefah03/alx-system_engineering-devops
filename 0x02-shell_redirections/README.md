@@ -5,3 +5,4 @@ Display the last 10 lines
 Display the first 10 lines
 displays the third line
 writes into the file
+script that duplicates the last line
