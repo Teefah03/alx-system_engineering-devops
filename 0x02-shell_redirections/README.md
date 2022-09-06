@@ -17,3 +17,4 @@ Display all the lines in the file /etc/passwd that do not contain the pattern
 Display all lines of the file starting with a letter
 Replace all characters
 script that removes all letters
+script that reverse its input
