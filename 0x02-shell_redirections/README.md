@@ -14,3 +14,4 @@ Display lines containing the pattern
 Display the number of lines that contain the pattern
 Display lines containing the pattern “root” and 3 lines
 Display all the lines in the file /etc/passwd that do not contain the pattern
+Display all lines of the file starting with a letter
