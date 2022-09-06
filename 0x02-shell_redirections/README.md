@@ -12,3 +12,4 @@ script that displays the 10 newest files
 script that takes a list of words as input
 Display lines containing the pattern
 Display the number of lines that contain the pattern
+Display lines containing the pattern “root” and 3 lines
