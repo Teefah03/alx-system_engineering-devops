@@ -19,3 +19,4 @@ Replace all characters
 script that removes all letters
 script that reverse its input
 script that displays all users and their home directories, sorted by users
+displays the 11 hosts
