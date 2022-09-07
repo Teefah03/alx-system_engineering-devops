@@ -11,3 +11,4 @@ script that prints the result of POWER divided by DIVIDE
 displays the result of BREATH to the power LOVE
 converts a number from base 2 to base 10
 prints all possible combinations of two letters, except oo
+script that prints a number with two decimal places
